@@ -1,3 +1,6 @@
+// This code contains all the basic things we need for a chatter bot with clean format and comments.
+// Related to my interest: Artificial Intelligence and Natrual Language Processing.
+// The first code I wrote after attending graduate school
 import java.io.*;
 import java.lang.reflect.Array;
 import java.util.*;
